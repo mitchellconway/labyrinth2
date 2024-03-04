@@ -1397,6 +1397,19 @@
         {
          "firstgid":2956,
          "source":"tilesbg.tsx"
+        }, 
+        {
+         "columns":1,
+         "firstgid":2957,
+         "image":"tilesets\/Untitled design.png",
+         "imageheight":3840,
+         "imagewidth":3606,
+         "margin":0,
+         "name":"location tiles",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":3840,
+         "tilewidth":3606
         }],
  "tilewidth":32,
  "type":"map",
