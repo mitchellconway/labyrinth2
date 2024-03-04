@@ -577,6 +577,10 @@
          "tilecount":1,
          "tileheight":3840,
          "tilewidth":3606
+        }, 
+        {
+         "firstgid":2951,
+         "source":"backgroundtile2.tsx"
         }],
  "tilewidth":32,
  "type":"map",
