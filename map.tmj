@@ -1298,6 +1298,19 @@
          "tilecount":480,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":23,
+         "firstgid":19192,
+         "image":"tilesets\/The-Dolphins-fresco-from-the-Queens-Megaron-at-the-Minoan-palace-of-Knosso.png",
+         "imageheight":506,
+         "imagewidth":750,
+         "margin":0,
+         "name":"The-Dolphins",
+         "spacing":0,
+         "tilecount":345,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
